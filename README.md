@@ -210,3 +210,12 @@ Overall, these per-token predictions show the **progressive honing** of classifi
   <img src="images/p14.png" style="width: 100%;">
   <img src="images/p15.png" style="width: 100%;">
 </div>
+
+---
+
+## References
+- Szegedy et al., "Going Deeper with Convolutions" (Inception Networks)
+- He et al., "Deep Residual Learning for Image Recognition" (ResNet)
+- Dosovitskiy et al., "An Image is Worth 16x16 Words" (Vision Transformers)
+
+---
